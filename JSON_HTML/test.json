@@ -1,0 +1,12 @@
+{
+"quiz1" : {
+    
+        "title" : "this is my quiz",
+        "points" : 100,
+        "question1": {      
+            "content": "what is score of samantha ?"
+        } 
+        
+    }
+}
+

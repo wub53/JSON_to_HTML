@@ -1,0 +1,35 @@
+{
+    "doc":{
+        "file": "resume.yml",
+        "title": "Dov Kruger",
+        "contact": {
+            "email": "Dov.Kruger@stevens.edu",
+            "phone": "201-798-1590"
+        },
+        
+        "layout": {
+            "col": "4",
+            "Education" : ["PhD. Ocean Engineering", "Stevens Institute of Technology 2010", "M.S. Computer Science, Stevens Institute of Technology 2006", "B.E. EECS, Stevens Institute of Technology, 1987"]
+
+        },
+        "layout1":{
+            "col": "3",
+            "Skills": {
+                "Programming Languages": ["C++", "Java", "C#", "C", "Perl", "MATLAB", "x86/ARMv7/AARCH64 assembler", "FORTRAN 77/90/95", "Python", "OpenSCAD", "R"],
+                "Web Prgramming ": ["HTML", "CSS", "JavaScript", "Java Servlets/JSP", "PHP", "ASP"],
+                "Middleware": ["CORBA", "Java", "RMI", "REST API"],
+                "Programming Tools":["vscode", "make", "cmake", "ninja", "emacs", "CLion", "Qt Creator", "Visual Studio", "Notepad++", "g++", "gdb", "clang", "Tomcat 7/8", "Apache httpd", "IIS", "Intellij", "Netbeans", "Eclipse", "ant", "mvn", "sh", "bash"],
+                "Version Control":[ "git", "mercurial", "svn"],
+                "Operating Systems": ["Linux (Ubuntu, Redhat)", "MacOS X", "Windows XP/7/8/8.1/10"],  
+                "Data Interchange": ["JSON", "YML", "XML", "STL"],
+                "Parallelization": ["C++11 threads", "OpenMP", "MPI", "pthreads", "AVX"],
+                "Graphical APIs": ["Java Swing", "OpenG", "Processing"],
+                "Databases": ["MySQL", "MongoDB", "Oracle", "Sybase"],
+                "Embedded Systems": ["Arduino, Raspberry Pi"],
+                "CAD": ["Eagle", "Fritzing", "LTSpice"],
+                "Languages": ["native English speaker", "conversational Hebrew and French", "beginner Japanese"]
+            }
+        }
+    }
+   
+}
